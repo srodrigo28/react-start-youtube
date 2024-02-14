@@ -1,0 +1,8 @@
+.container{
+    display: flex;
+    align-items: start;
+    flex-direction: column;
+}
+.btn{
+    margin-right: 10px;
+}

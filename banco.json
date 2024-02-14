@@ -1,0 +1,20 @@
+{
+    "produto": [
+        { 
+            "id": 1, 
+            "nome": "Notebook Dell", 
+            "quantidade": 10, 
+            "preco": 3500, 
+            "status": "Ativo", 
+            "descricao": "Core i7, SSD 500GB"
+        },
+        { 
+            "id": 2, 
+            "nome": "TV Smart 55", 
+            "quantidade": 10, 
+            "preco": 3900, 
+            "status": "Ativo", 
+            "descricao": "Samgung Oled"
+        }
+    ]
+}

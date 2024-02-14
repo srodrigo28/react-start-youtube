@@ -1,0 +1,30 @@
+.menu{
+    width: 170px;
+    height: 100vh;
+
+    color: #fff;
+    background-color: rgb(47, 47, 228);
+}
+
+.menu ul{
+    padding-right: 20px;
+    padding-top: 20px;
+}
+
+.menu ul li{
+    gap: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.menu ul li a{
+    font-size: 1.3rem;
+    color: #fff;
+    padding: 10px;
+    text-decoration: none;
+    transition: 2s;
+}
+
+.menu ul li a:hover{
+    background-color: #00000070;
+}

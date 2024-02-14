@@ -1,0 +1,8 @@
+.btn-group{
+    margin-top: 10px;
+    display: flex;
+}
+
+.btn{
+    width: 100px;
+}
